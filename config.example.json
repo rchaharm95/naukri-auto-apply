@@ -1,0 +1,29 @@
+{
+  "credentials": {
+    "email": "<enter your email>",
+    "password": "<enter your password>"
+  },
+  "search": {
+    "keywords": [
+      "dot net full stack developer",
+      ".net core developer",
+      "C# full stack developer",
+      "dot net developer GCC",
+      ".net developer MNC"
+    ],
+    "location": "Noida",
+    "experience": 5,
+    "salary_min": 0,
+    "work_mode": "hybrid,work from home",
+    "gcc_only": true
+  },
+  "settings": {
+    "headless": false,
+    "slow_mo": 800,
+    "max_pages": 5,
+    "max_apply_per_run": 20,
+    "delay_between_applies": 4,
+    "skip_company_site_jobs": false,
+    "confirm_before_apply": false
+  }
+}
